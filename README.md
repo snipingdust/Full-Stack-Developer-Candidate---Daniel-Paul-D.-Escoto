@@ -8,7 +8,7 @@ To activate the database (MSSQL) you must:
 2. Install MSSQL database on your computer if you do not have one. (https://www.microsoft.com/en-pk/download/details.aspx?id=56840)
 3. Create a database named "Bowling" using MSSQL. Preferably SQL Management Server Studio.
 4. Run both sql scripts bowlers_table and bowling_games_table. 
-5. Edit the datasource (username for windows), initial catalog (the database name: "Bowling"), username and password in the properties file, dbBowlingGame.properties.
+5. Edit the datasource (username for windows), initial catalog (the database name: "Bowling"), username and password (credentials of your database) in the properties file, dbBowlingGame.properties.
 6. Install the published file to run the application.
 
 If you have any questions, please do not hesitate to call me at my number: 09055245758
